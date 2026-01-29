@@ -1,0 +1,5 @@
+{
+  "name": "ContextWebnovel",
+  "description": "A high-performance, AI-powered webnovel translation environment featuring glossary management, deep-scan term extraction, and context-aware translation to Arabic.",
+  "requestFramePermissions": []
+}
